@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0763-partition-labels) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
