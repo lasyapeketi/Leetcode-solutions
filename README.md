@@ -42,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0763-partition-labels) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Heap (Priority Queue)
 |  |
