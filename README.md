@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -28,18 +29,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0409-longest-palindrome](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0763-partition-labels](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0763-partition-labels) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0763-partition-labels](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0763-partition-labels) |
 ## Greedy
