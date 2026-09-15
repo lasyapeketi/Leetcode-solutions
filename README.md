@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/1652-defuse-the-bomb) |
+| [1672-richest-customer-wealth](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [1672-richest-customer-wealth](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Bucket Sort
 |  |
 | ------- |
