@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0567-permutation-in-string) |
