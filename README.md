@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -208,11 +209,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
