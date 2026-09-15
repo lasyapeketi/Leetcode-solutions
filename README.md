@@ -204,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Math
+|  |
+| ------- |
+| [0728-self-dividing-numbers](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
