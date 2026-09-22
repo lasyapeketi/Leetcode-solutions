@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [2073-time-needed-to-buy-tickets](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [2073-time-needed-to-buy-tickets](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/lasyapeketi/Leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
